@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data & caches
+data/chroma_db/
+data/corpus.jsonl
+data/retrieve_cache.json
+data/processed_text/
+data/processed_audio/
+data/diagrams/
+data/audio/
+data/raw_pdfs/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

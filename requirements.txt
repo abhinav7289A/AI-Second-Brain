@@ -1,0 +1,16 @@
+langchain
+chromadb
+pymupdf
+whisper
+pytube
+sentence-transformers
+torch
+pillow
+tqdm
+openai
+transformers
+peft
+bitsandbytes
+scikit-learn
+llama-index
+crewai
